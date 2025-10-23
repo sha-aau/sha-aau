@@ -33,7 +33,7 @@ A high-voltage engineer with strong enthusiasm for **power system analysis** and
 - [Posit](https://posit.co)  
 
 
-#### PROGRAMMING LANGUAGES
+### PROGRAMMING LANGUAGES
 
 - 🥇 **High Level:** Python  
 - 🥈 **Intermediate Level:** LaTeX  
