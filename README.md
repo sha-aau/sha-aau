@@ -1,16 +1,53 @@
-## Hi there 👋
+# SHAHARIYA RASHEED RP
 
-<!--
-**sha-aau/sha-aau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A high-voltage engineer with strong enthusiasm for **power system analysis** and **HVDC**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## EDUCATION
+
+- 🎓 **Master of Science** – [Electrical Power Systems (High Voltage Engineering)](https://www.en.aau.dk/education/master/energy-engineering/electrical-power-systems-high-voltage-engineering)  
+- 🎓 **Bachelor of Engineering** – Electrical and Electronics Engineering ([CUSAT Academics](https://www.cusat.ac.in/academics.php))  
+
+---
+
+## EXPERIENCE
+
+- Design of power transformers up to 400 kV, including multi-winding and autotransformer configurations.
+
+---
+
+## SKILLS
+
+### SOFTWARE AND TOOLS
+
+#### ⚡ POWER SYSTEMS
+- [PSCAD](https://www.pscad.com/)  
+- [DIgSILENT PowerFactory](https://www.digsilent.de/en/powerfactory.html)  
+
+#### 🧲 ELECTROMAGNETIC ANALYSIS
+- [COMSOL Multiphysics](https://www.comsol.com)  
+
+#### 📊 OTHERS
+- [MATLAB & Simulink](https://www.mathworks.com/)  
+- [Posit](https://posit.co)  
+
+
+### PROGRAMMING LANGUAGES
+
+- 🥇 **High Level:** Python  
+- 🥈 **Intermediate Level:** LaTeX  
+- 🥉 **Hobby Level:** C  
+
+
+---
+
+## RESEARCH INTERESTS
+
+- Grid integration studies  
+- HVDC–MMC converters and HVDC system design  
+- Transformer modelling and insulation coordination  
+- Data analysis and AI applications in power systems  
+
+---
+
